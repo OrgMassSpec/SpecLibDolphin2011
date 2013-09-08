@@ -1,0 +1,12 @@
+Package: SpecLibDolphin2011
+Type: Package
+Title: Mass Spectral Library Dolphin Blubber 2011
+Version: 0.5-3
+Date: 2013-05-18
+Author: Nathan G. Dodder, with study authors Eunha Hoh, Steven J. Lehotay, Kristin C. Pangallo, Christopher M. Reddy, and Keith A. Maruya.
+Maintainer: Nathan Dodder <nathand@sccwrp.org>
+Depends: R (>= 2.14.1), OrgMassSpecR (>= 0.3-12), grid, png
+Description: Contains the code and mass spectral library described in: Nontargeted Comprehensive Two-Dimensional Gas Chromatography/Time-of-Flight Mass Spectrometry Method and Software for Inventorying Persistent and Bioaccumulative Contaminants in Marine Environments, Environmental Science and Technology, 2012, 46, 8001-8008. DOI: 10.1021/es301139q. The sample is blubber from a common dolphin (Delphinus delphis) fatally stranded January 2006 in Orleans, Massachusetts.
+License: BSD_2_clause + file LICENSE
+URL: http://orgmassspecr.r-forge.r-project.org/
+LazyData: yes
